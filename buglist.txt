@@ -1,0 +1,1 @@
+1、小米2s下，border-left: 1px dashed #f00;不支持，但是支持border: 1px dashed #f00;
